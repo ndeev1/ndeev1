@@ -1,3 +1,4 @@
+- FACTS ABOUT ME:
 - 👋 Hi, I’m @ndeev1
 - 👀 I’m interested in sports, coding, and cubing
 - 🌱 I’m currently learning judo, baseball, coding
